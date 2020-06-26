@@ -138,4 +138,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3d7a245f19964443911318465287f7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teleportPoint: {fileID: 0}
+  teleportPoint: {fileID: 8299808671576047903}
